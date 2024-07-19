@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "autoflush",
+        "fastapi",
+        "passlib",
+        "PDFID",
+        "PDFS",
+        "pydantic",
+        "sessionmaker",
+        "sqlalchemy"
+    ],
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/server/src"
+    ],
+    "mypy-type-checker.cwd": "${workspaceFolder}/server/src",
+}
